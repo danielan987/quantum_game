@@ -1,1 +1,1 @@
-# quantum_game
+# Quantum Game
